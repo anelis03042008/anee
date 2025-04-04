@@ -21,7 +21,7 @@ body {
     /* Tamanho base da fonte */
     font-family: 'Montserrat';
     /* Fonte principal */
-    background: color(srgb red green blue);
+    background: color #000000;
     /* Cor de fundo lilás claro */
 }
 
